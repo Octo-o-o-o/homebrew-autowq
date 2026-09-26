@@ -1,6 +1,6 @@
 cask "worldquant" do
-  version "0.2.2"
-  sha256 "961cd70d13ec8f3747ec0c19a7d569b016b68bebd41a0b824935da3802ab2680"
+  version "0.2.3"
+  sha256 "2cc6548bc7f6930387968f879a8dc5c01cffdb1cb7bddf15bea78090bff08be6"
 
   url "https://github.com/Octo-o-o-o/autowq/releases/download/v#{version}/WorldQuant-#{version}.dmg"
   name "WorldQuant"
