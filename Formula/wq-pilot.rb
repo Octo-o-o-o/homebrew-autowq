@@ -3,8 +3,8 @@ class WqPilot < Formula
 
   desc "Local WorldQuant BRAIN research orchestration with gated providers"
   homepage "https://github.com/Octo-o-o-o/autowq"
-  url "https://github.com/Octo-o-o-o/autowq/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "11f3104a6155cf2325c813b379124922608aa2e0cb698d64100aff13e2eebbe1"
+  url "https://github.com/Octo-o-o-o/autowq/archive/refs/tags/v0.2.2.tar.gz"
+  sha256 "59a0109db9cae26cbd7d9527ef4b32095a90551ced5ccb9b3188b4f540300f24"
   license "Apache-2.0"
 
   depends_on "python@3.13"
