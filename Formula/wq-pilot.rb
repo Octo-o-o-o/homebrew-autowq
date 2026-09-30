@@ -3,8 +3,8 @@ class WqPilot < Formula
 
   desc "Local WorldQuant BRAIN research orchestration with gated providers"
   homepage "https://github.com/Octo-o-o-o/autowq"
-  url "https://files.pythonhosted.org/packages/74/24/ad42fdc38153eaa17070a9911ea18649dfc71cafd996a96c6cdd5c2e0f6e/wq_pilot-0.2.18.tar.gz"
-  sha256 "d97267cb602e66e64dc4bd948aa4ad84027db197b16976380ccaa8acb4c52fef"
+  url "https://files.pythonhosted.org/packages/3a/95/099108cb4912bbb7e93e49d68070da7925c8f6958f9402585187d1305b8e/wq_pilot-0.2.20.tar.gz"
+  sha256 "70b7c8d0f265a869f59f799dd595544f6226492c21a110f772e8f2a864a0a6e1"
   license "Apache-2.0"
 
   depends_on "python@3.13"
